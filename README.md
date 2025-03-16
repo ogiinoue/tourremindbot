@@ -108,17 +108,3 @@ function sendEmail(recipient, subject, body) {
 🎯 **作業時間削減** × **通知ミス防止** × **業務の効率化**  
 ✨ **簡単 & 高速な運用で、施設管理の負担を大幅に軽減！**  
 ```
-
----
-
-### 🌍 GitHubにアップする際の英語名
-このツールの英語名として、以下の案を考えました。
-
-✅ **Facility Tour Reminder & Notification System**  
-✅ **Facility Visit Auto-Notifier**  
-✅ **GAS Auto Reminder for Facility Tours**  
-✅ **VisitNotifier**（シンプル＆わかりやすい）  
-✅ **TourRemindBot**（Slack通知を意識）  
-
-短くて分かりやすいものを選ぶなら、  
-**"VisitNotifier"** や **"TourRemindBot"** がおすすめです！
